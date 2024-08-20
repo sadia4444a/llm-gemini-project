@@ -47,7 +47,7 @@ Write a LinkedIn post based on this information that feels personal, engaging, e
 
 # Streamlit UI----------------
 with st.sidebar:
-    "[View the source code](https://github.com/sadia4444a/llm-gemini-yt-tools/blob/main/Code_Explainer.py)"
+    "[View the source code](https://github.com/sadia4444a/llm-gemini-project/blob/master/Code_Explainer.py)"
 
 st.title("Code Segment To Post ")
 

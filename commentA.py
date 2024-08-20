@@ -72,7 +72,7 @@ def analyze_comments_with_prompt(comments):
 
 # Streamlit app -----------------
 with st.sidebar:
-    "[View the source code](https://github.com/sadia4444a/llm-gemini-yt-tools/blob/main/commentA.py)"
+    "[View the source code](https://github.com/sadia4444a/llm-gemini-project/blob/master/commentA.py)"
    
 
 st.title('YouTube Comment Analysis')

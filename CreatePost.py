@@ -70,7 +70,7 @@ def generate_linkedin_post(video_title, video_link, transcript_text):
 # Streamlit UI---------------------
 
 with st.sidebar:
-    "[View the source code](https://github.com/sadia4444a/llm-gemini-yt-tools/blob/main/CreatePost.py)"
+    "[View the source code](https://github.com/sadia4444a/llm-gemini-project/blob/master/CreatePost.py)"
    
 st.title("YouTube to LinkedIn Post Generator")
 

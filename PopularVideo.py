@@ -5,7 +5,7 @@ from googleapiclient.discovery import build
 
 
 with st.sidebar:
-    "[View the source code](https://github.com/sadia4444a/llm-gemini-yt-tools/blob/main/PopularVideo.py)"
+    "[View the source code](https://github.com/sadia4444a/llm-gemini-project/blob/master/PopularVideo.py)"
     
 
 st.markdown("### Find Most Popular video in a Playlist")

@@ -66,7 +66,7 @@ def generate_gemini_content(transcript_text):
 
 # Streamlit UI-----------------------
 with st.sidebar:
-    "[View the source code](https://github.com/sadia4444a/llm-gemini-yt-tools/blob/main/Transcript.py)"
+    "[View the source code](https://github.com/sadia4444a/llm-gemini-project/blob/master/Code_Explainer.py)"
     
 st.title("YouTube Transcript to Summarized Notes")
 
