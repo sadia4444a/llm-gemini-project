@@ -8,7 +8,7 @@ st.markdown(" ### Welcome to the YouT App! 👩🏼‍💻")
 # Demo Video
 st.write(" ")
 st.markdown("#### :red[ 🎥 Watch the full demo to see all the features in action!]")
-video_file = open("https://github.com/sadia4444a/llm-gemini-project/tree/master/video/YouT_App_demo.mov", "rb")
+video_file = open("video/YouT_App_demo.mov", "rb")
 video_bytes = video_file.read()
 st.video(video_bytes)
 
